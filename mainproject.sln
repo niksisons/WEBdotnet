@@ -5,9 +5,9 @@ VisualStudioVersion = 17.8.34316.72
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mainproject", "mainproject\mainproject.csproj", "{5AC91341-E41E-445E-9DEB-F8A6FD2448F6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BD", "BD\BD.csproj", "{DF9830AA-C323-45A6-9930-735B1F966D60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DB", "BD\DB.csproj", "{DF9830AA-C323-45A6-9930-735B1F966D60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nginx", "nginx\nginx.csproj", "{BCF7E83A-D311-4961-A47E-0E9B50BBAF3B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "nginx", "nginx\nginx.csproj", "{BCF7E83A-D311-4961-A47E-0E9B50BBAF3B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
